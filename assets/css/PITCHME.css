@@ -1,0 +1,12 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal {
+  font-family: Calibri, sans-serif !important;
+}
+
+.reveal h1 {
+  text-transform: none;
+}
