@@ -27,7 +27,7 @@ Talk Sub Title Here
 @snap[north-west]
 ## **Thank you!**
 
-Please use the event app or Sched.com to submit a session rating!
+Please use the event app to submit a session rating!  http://bit.ly/summit2019app
 @snapend
 
 @snap[south-west span-10]
